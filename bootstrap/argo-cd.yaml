@@ -34,5 +34,5 @@ status:
     comparedTo:
       destination: {}
       source:
-        repoURL: "https://github.com/sanjayqodeleaf/helm-argo-repo.git"
+        repoURL: "https://github.com/sanjaysam001/helm-argo-repo.git"
     status: ""
