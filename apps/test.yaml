@@ -21,7 +21,7 @@ spec:
           valueFiles:
             - $values/helm-argo-repo/webapp/values.yaml
 
-        repoURL: https://github.com/sanjayqodeleaf/helm-argo-repo.git
+        repoURL: https://github.com/sanjaysam001/helm-argo-repo.git
         targetRevision: HEAD
         path: helm-argo-repo/webapp
       destination:
